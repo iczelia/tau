@@ -1,5 +1,5 @@
 
-/* This file has been taken from https://github.com/kspalaiologos/asmbf - "the only true brainfuck-targetting assembler". */
+/* This file has been taken from https://github.com/iczelia/asmbf - "the only true brainfuck-targetting assembler". */
 
 #ifdef __cplusplus
 extern "C" {
