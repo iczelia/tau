@@ -22,7 +22,7 @@ Single thread performance - `648511.11` lines of x86 assembly per second (0.09s)
 
 ```bash
 # Clone the repository
-git clone https://github.com/kspalaiologos/tau && cd tau
+git clone https://github.com/iczelia/tau && cd tau
 
 # Start with downloading and building the dependencies.
 make deps
